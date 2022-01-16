@@ -1,4 +1,5 @@
 HKCC Student learning C++, java and python
+Currently learning data structure
 Also knows minecraft command if this interest you :>
 
 <!---
