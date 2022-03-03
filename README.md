@@ -1,5 +1,7 @@
-HKCC Student learning C++, java and python
+HKCC Student who knows little C++, java, python and html
+
 Currently learning data structure
+
 Also knows minecraft command if this interest you :>
 
 <!---
