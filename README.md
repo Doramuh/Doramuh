@@ -1,4 +1,4 @@
-Polytechnic University student who knows general coding stuff
+Hong Kong Polytechnic University student who knows general coding stuff
 
 Also knows minecraft command if this interest you :>
 
