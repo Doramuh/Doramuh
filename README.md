@@ -1,6 +1,4 @@
-HKCC Student who knows little C++, java, python and html
-
-Currently learning data structure
+Polytechnic University student who knows general coding stuff
 
 Also knows minecraft command if this interest you :>
 
